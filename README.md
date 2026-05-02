@@ -62,6 +62,12 @@ I trained and compared multiple machine learning models:
 - Recall: 0.7542
 - F1 Score: 0.6214
 
+-🔹 Random Forest
+- F1 Score: 0.5426356589147286
+- Accuracy: 0.784446764091858
+- Precision: 0.5737704918032787
+- Recall: 0.5147058823529411
+
 ##🧠 Key Insight
 - Although XGBoost achieved slightly higher F1 Score, Logistic Regression was selected as the best model because:
 It achieved higher Recall (0.7542)

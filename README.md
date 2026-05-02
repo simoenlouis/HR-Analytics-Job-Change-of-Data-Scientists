@@ -50,10 +50,12 @@ I trained and compared multiple machine learning models:
 ##📊 Model Evaluation
 
 -🔹 XGBoost
+
 - Accuracy: 0.7829
 - Precision: 0.5477
 - Recall: 0.7237
 - F1 Score: 0.6235
+  
 -🔹 Logistic Regression
 - Accuracy: 0.7717
 - Precision: 0.5283

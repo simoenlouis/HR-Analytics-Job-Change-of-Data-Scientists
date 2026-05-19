@@ -92,8 +92,3 @@ This project demonstrates that:
 Simpler models like Logistic Regression can outperform complex models depending on the business objective
 Choosing the right metric (Recall vs F1 vs Accuracy) is critical
 Model selection should always align with business goals, not just raw performance
-
-## Author
-- Simoen Louis
-
-- GitHub: simoenlouis
